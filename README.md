@@ -1,4 +1,4 @@
-![Untitled design](https://github.com/adityabhamare10/Vrid-Blog-App/assets/108888187/39596386-323f-4c25-8eb0-50e0018eeaa3)# Blog App
+# Blog App
 
 This is an Android application that fetches and displays blog posts from a WordPress blog using Retrofit and Room for offline caching.
 
