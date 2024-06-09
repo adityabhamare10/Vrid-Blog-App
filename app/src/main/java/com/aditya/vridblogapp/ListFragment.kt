@@ -10,7 +10,8 @@ import androidx.navigation.Navigation
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.navigation.fragment.findNavController
-import com.aditya.vridblogapp.viewModel.BlogViewModel
+//import com.aditya.vridblogapp.viewModel.BlogViewModel
+import com.aditya.vridblogapp.viewmodel.BlogViewModel
 
 class ListFragment : Fragment(R.layout.fragment_list) {
     private lateinit var viewModel: BlogViewModel
