@@ -26,4 +26,4 @@ This app follows the Model-View-ViewModel (MVVM) architecture pattern:
 - [Coroutines](https://developer.android.com/kotlin/coroutines) for asynchronous operations
 - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) to handle data in a lifecycle-aware manner
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) to manage UI-related data
-## Screenshots
+## Media
