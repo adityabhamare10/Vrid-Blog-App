@@ -29,5 +29,5 @@ This app follows the Model-View-ViewModel (MVVM) architecture pattern:
 ## Media
 ![design](https://github.com/adityabhamare10/Vrid-Blog-App/assets/108888187/59ad0414-99aa-44a8-b679-bf5f70ef9d72)
 
-https://drive.google.com/file/d/1D88IGMpdqvGhFUp898iulcpAyTDLLL_A/view?usp=sharing
+https://github.com/adityabhamare10/Vrid-Blog-App/assets/108888187/1169545b-fa44-4a5f-91a4-a169039ea19d
 
